@@ -57,5 +57,5 @@ src/
 
 ## Live Demo
 
-Vercel Link: [#]
+Vercel Link: [https://popx-react-assignment-xi.vercel.app/]
 
