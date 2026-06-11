@@ -280,3 +280,39 @@ body{
   font-weight:500;
   color:#1d2226;
 }
+.avatar-wrapper{
+  position:relative;
+
+  width:72px;
+  height:72px;
+
+  flex-shrink:0;
+}
+
+.camera-badge{
+  position:absolute;
+
+  right:-2px;
+  bottom:4px;
+
+  width:22px;
+  height:22px;
+
+  border-radius:50%;
+
+  background:#6c25ff;
+  color:white;
+
+  display:flex;
+  align-items:center;
+  justify-content:center;
+
+  border:2px solid white;
+
+  font-size:10px;
+}
+
+.camera-badge svg{
+  width:10px;
+  height:10px;
+}
